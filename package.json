@@ -6,13 +6,16 @@
     "email": "support@rocket.chat",
     "url": "https://rocket.chat/"
   },
-  "contributors": [{
-    "name": "Gabriel Engel",
-    "email": "gabriel.engel@rocket.chat"
-  }, {
-    "name": "Sing Li",
-    "email": "sing.li@rocket.chat"
-  }],
+  "contributors": [
+    {
+      "name": "Gabriel Engel",
+      "email": "gabriel.engel@rocket.chat"
+    },
+    {
+      "name": "Sing Li",
+      "email": "sing.li@rocket.chat"
+    }
+  ],
   "description": "The sample Hubot for Rocket.Chat",
   "keywords": [
     "hubot",
